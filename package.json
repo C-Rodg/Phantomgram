@@ -1,0 +1,29 @@
+{
+  "name": "phantomgram-nightmare",
+  "version": "1.0.0",
+  "description": "An instagram bot using NightmareJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C-Rodg/Phantomgram.git"
+  },
+  "keywords": [
+    "Instagram",
+    "Nightmare",
+    "javascript",
+    "bot"
+  ],
+  "author": "Curtis Rodgers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/C-Rodg/Phantomgram/issues"
+  },
+  "homepage": "https://github.com/C-Rodg/Phantomgram#readme",
+  "dependencies": {
+    "async": "^2.1.1",
+    "nightmare": "^2.7.0"
+  }
+}
